@@ -1,0 +1,47 @@
+[
+  {
+    "id": "001",
+    "img": "Gawr_Gura.png",
+    "height": "157cm",
+    "birthday": "6/20",
+    "design": "甘城なつき",
+    "title": "<a href=https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g target=_blank >Gawr_Gura</a>",
+    "herf": "detal/Gura.html"
+  },
+  {
+    "id": "002",
+    "img": "ina3.jpg",
+    "height": "157cm",
+    "birthday": "5/20",
+    "design": "黑星紅白",
+    "title": "<a href=https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg target=_blank >Ninomae Ina nis</a>",
+    "herf": "detal/Ina.html"
+  },
+  {
+    "id": "003",
+    "img": "unnamed.jpg",
+    "height": "157cm",
+    "birthday": "1/6",
+    "design": "なび",
+    "title": "<a href=https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg target=_blank >Watson Amelia</a>",
+    "herf": "detal/Amelia.html"
+  },
+  {
+    "id": "004",
+    "img": "cali.jpg",
+    "height": "157cm",
+    "birthday": "4/4",
+    "design": "ゆきさめ",
+    "title": "<a href=https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg target=_blank >Mori Calliope</a>",
+    "herf": "detal/Calliope.html"
+  },
+  {
+    "id": "005",
+    "img": "kiara.jpg",
+    "height": "157cm",
+    "birthday": "7/6",
+    "design": "huke",
+    "title": "<a href=https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww target=_blank >Takanashi Kiara</a>",
+    "herf": "detal/Kiara.html"
+  }
+]
